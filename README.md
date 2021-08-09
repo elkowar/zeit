@@ -19,3 +19,8 @@ The main usecase for this for me is quickly generating timestamps for discords t
 
 This is practically just a more elaborate shellscript - go has the libraries I need.
 Please don't see this as encouragement to use go for any real projects.
+
+## Installation
+
+Make sure you have go properly set up.
+Then just run `go install github.com/elkowar/zeit` to install zeit!
