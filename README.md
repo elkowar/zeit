@@ -1,6 +1,6 @@
 # Zeit
 
-Zeit is an extremely simple command line application to read a natual language time description and output it as a timestamp.
+Zeit is an extremely simple command line application to read a natural language time description and output it as a timestamp.
 The main usecase for this for me is quickly generating timestamps for discords timestamp values.
 
 ## Usage
